@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "93287873769",
+    "project_id": "udio-share",
+    "storage_bucket": "udio-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93287873769:android:266d40db4b8622e3e70478",
+        "android_client_info": {
+          "package_name": "com.kiishidart.udio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93287873769-pqaf9tpcg5vb3pvoh1duvtoa3hp2ld9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5fAD9ZhDQUWIbMsEQftUIN3c3DqHbQs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93287873769-pqaf9tpcg5vb3pvoh1duvtoa3hp2ld9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93287873769-7f11md5pvtdhln7ltjjrv021u1bpf16v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiishidart.udio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
